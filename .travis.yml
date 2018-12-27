@@ -3,7 +3,6 @@ language: bash
 os:
   - linux
   - osx
-  - freebsd
 
 script:
   - export SHELL="/bin/bash" && curl -L https://raw.githubusercontent.com/jackdoe/juun/master/download-and-install.sh | bash
