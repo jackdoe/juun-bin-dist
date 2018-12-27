@@ -8,3 +8,4 @@ os:
 script:
   - export SHELL="/bin/bash" && curl -L https://raw.githubusercontent.com/jackdoe/juun/master/download-and-install.sh | bash
   - export SHELL="/bin/zsh" && curl -L https://raw.githubusercontent.com/jackdoe/juun/master/download-and-install.sh | bash
+
